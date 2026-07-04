@@ -10,25 +10,29 @@
 
 **Discover • Learn • Share**
 
-*A community-driven collection of the best Free & Open Source Software.*
+*Community-driven collection of the best Free & Open Source Software.*
 
 </div>
 
-## 👋 Welcome
+---
 
-Welcome to **LibreVault**, the flagship project of **TamilLibre**.
+## 👋 Vanakkam!
 
-LibreVault is a carefully curated collection of Free & Open Source Software (FOSS), designed to help everyone—from students and developers to creators, Linux enthusiasts, and professionals—discover high-quality free software.
+**LibreVault**-ku welcome! Idhu **TamilLibre**-oda flagship project.
 
-Whether you're searching for a Photoshop alternative, a self-hosted cloud, a code editor, or the best Linux tools, LibreVault aims to be your trusted starting point.
+LibreVault-na carefully curated **Free & Open Source Software (FOSS)** collection. Students, developers, creators, Linux users, professionals, beginners... yaar venalum best free software discover panna help pannradhu dhaan namma goal.
 
-Our goal is simple:
+Neenga Photoshop alternative thedunalum, self-hosted cloud venumnalum, code editor venumnalum, illa best Linux tools thedunalum, **LibreVault unga trusted starting point-a irukkum.**
 
-> **Help everyone discover the best free software—organized, verified, and easy to find.**
+### 🎯 Namma Goal
 
-## 🌏 About TamilLibre
+> **Best free software ellarukkum easy-ah discover panna help panradhu — organized, verified, easy to find.**
 
-TamilLibre is a community focused on promoting:
+---
+
+# 🌏 TamilLibre Pathi
+
+TamilLibre focuses on promoting:
 
 - 💻 Free & Open Source Software
 - 🐧 Linux
@@ -38,20 +42,26 @@ TamilLibre is a community focused on promoting:
 - 📚 Learning & Education
 - 🌍 Digital Freedom
 
-Started by the Tamil community, built for everyone.
+**Started by the Tamil community, built for everyone.**
 
-## 🎯 Our Mission
+---
 
-To build one of the world's most trusted and comprehensive collections of Free & Open Source Software, making software discovery simple, transparent, and accessible for everyone.
+# 🚀 Namma Mission
 
-## ✨ What You'll Find
+World-la irukkura best **Free & Open Source Software collection**-ah create panni, software discovery-ah simple, transparent, accessible-a maathradhu dhaan namma mission.
 
-LibreVault is more than a software list—it's a curated knowledge base built to help you find the right tool for the right job.
+---
 
-Every software entry is carefully organized and, whenever possible, includes:
+# ✨ LibreVault-la Enna Kedaikkum?
+
+LibreVault just software list illa.
+
+Correct tool-a easy-ah kandupidikka help pannra curated knowledge base.
+
+Mudinja varaikkum every software-kum include pannuvom:
 
 - 🌐 Official Website
-- 🐙 Official Repository (GitHub, GitLab, etc.)
+- 🐙 Official Repository (GitHub, GitLab, Codeberg...)
 - 📜 License Information
 - 💻 Supported Platforms
 - 📦 Installation Methods
@@ -59,61 +69,79 @@ Every software entry is carefully organized and, whenever possible, includes:
 - ⭐ Best Use Cases
 - 🔄 Recommended Alternatives
 
-Our goal is to save you time by bringing trusted software together in one place.
+Namma aim simple...
 
+**Useful software ellam ore idathula organize panni unga time save pannradhu.**
 
-## 📂 Categories
+---
 
-LibreVault is organized into carefully curated categories to help you quickly find the right software.
+# 📂 Categories
 
-> 🚧 More categories are continuously being added.
+LibreVault software-ah easy-ah find panna categories-la organize pannirukkom.
+
+> 🚧 Pudhu categories continuous-ah add pannitu irukkom.
 
 ### 💻 Operating Systems
-Linux distributions, Windows utilities, macOS tools, BSD, and more.
+
+Linux distributions, Windows utilities, macOS tools, BSD & more.
 
 ### 🌐 Internet
-Browsers, Search Engines, DNS, VPN, Email, Messaging, RSS, and Web Tools.
+
+Browsers, Search Engines, DNS, VPN, Email, Messaging, RSS & Web Tools.
 
 ### 🎨 Creative
-Image Editing, Vector Graphics, Video Editing, Audio Production, 3D, CAD, and Design.
+
+Image Editing, Vector Graphics, Video Editing, Audio Production, 3D, CAD & Design.
 
 ### 💼 Productivity
-Office Suites, Notes, Task Management, Calendars, PDF Tools, OCR, Whiteboards, and Mind Mapping.
+
+Office Suites, Notes, Task Management, Calendars, PDF Tools, OCR, Whiteboards & Mind Mapping.
 
 ### 💻 Developer Tools
-Code Editors, IDEs, Git Clients, API Testing, Databases, Containers, DevOps, and Terminal Tools.
+
+Code Editors, IDEs, Git Clients, API Testing, Databases, Containers, DevOps & Terminal Tools.
 
 ### 🤖 Artificial Intelligence
-AI Chat, Coding Assistants, Image Generation, Video, Audio, Local LLMs, and AI Utilities.
+
+AI Chat, Coding Assistants, Image Generation, Video, Audio, Local LLMs & AI Utilities.
 
 ### ☁️ Self-Hosted
-Cloud Storage, Media Servers, Password Managers, Dashboards, Home Automation, Reverse Proxies, and more.
+
+Cloud Storage, Media Servers, Password Managers, Dashboards, Home Automation, Reverse Proxies & more.
 
 ### 🔒 Privacy & Security
-Encryption, Password Managers, Firewalls, Network Tools, Privacy Utilities, and Security Software.
+
+Encryption, Password Managers, Firewalls, Network Tools, Privacy Utilities & Security Software.
 
 ### 🎮 Gaming
-Game Launchers, Emulators, Game Engines, Streaming, and Gaming Utilities.
+
+Game Launchers, Emulators, Game Engines, Streaming & Gaming Utilities.
 
 ### 📱 Mobile
-Android Apps, Android Utilities, Mobile Productivity, and Mobile Privacy Tools.
+
+Android Apps, Android Utilities, Mobile Productivity & Privacy Tools.
 
 ### 📚 Education
-Learning Resources, Programming, Mathematics, Science, Languages, and Student Tools.
 
-## ✅ Our Review Standards
+Programming, Mathematics, Science, Languages, Student Tools & Learning Resources.
 
-Every project featured in LibreVault is selected using a consistent review process.
+---
 
-Before adding software, we verify:
+# ✅ Namma Review Standards
+
+LibreVault-la add panna every project-kum oru consistent review process follow pannuvom.
+
+Software add panna munadi verify pannuvom:
 
 - 🌐 Official Website
-- 🐙 Official Source Repository (GitHub, GitLab, Codeberg, etc.)
+- 🐙 Official Source Repository (GitHub, GitLab, Codeberg...)
 - 📜 License Information
 - 💻 Supported Platforms
-- 🛠 Active Development (where applicable)
+- 🛠 Active Development
 - 🔒 Security & Trustworthiness
 - 📝 Clear Description
 - 🏷 Proper Category & Tags
 
-Our goal isn't to list every piece of software on the internet—it's to recommend software that is useful, reliable, and worth your time.
+Namma goal internet-la irukkura ella software-yum list pannradhu illa.
+
+**Actually useful, reliable, trustworthy software mattum recommend pannradhu dhaan TamilLibre-oda objective.** 💚
