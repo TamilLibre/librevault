@@ -1,3 +1,4 @@
+🏠 **[Home](../README.md)** › 📦 **[LibreVault](librevault.md)** › 🤖 **AI Vault**
 # 🤖 AI Vault
 
 > **"AI-na ChatGPT mattum illa. Coding, writing, images, videos, voice, research nu almost every task-kum dedicated AI tools irukku."**
