@@ -9,6 +9,7 @@
 - [🎬 Free Movie Platforms](#free-movie-platforms)
 - [📺 TV Show Platforms](#tv-show-platforms)
 - [🌍 Streaming Services](#streaming-services)
+- [🏆 Sports Platforms](#sports-platforms)
 - [🎭 Discovery Tools](#discovery-tools)
 - [🎞️ Databases](#databases)
 - [🎥 Trailers & Reviews](#trailers--reviews)
@@ -105,7 +106,166 @@ Below links are **community / third-party streaming sites** (availability varies
 - [HBO Max](https://www.max.com)
 
 ---
+<a id="sports-platforms"></a>
 
+# 🏆 Sports Vault
+
+> **"Cricket, football, basketball, tennis ellam live scores, highlights, news, stats, analysis track panna indha section use pannalam."**
+
+---
+
+# 📦 Indha Section-la Enna Irukku?
+
+- 🏏 Cricket Platforms
+- ⚽ Football Platforms
+- 🏀 Basketball Platforms
+- 🎾 Tennis Platforms
+- 📊 Live Scores
+- 📺 Sports Streaming
+- 🧠 Stats & Analytics
+- 📰 Sports News
+- 🎮 Fantasy Sports
+
+---
+
+# FREE WATCHING (PAIRASI)
+[HAI8G](https://hai8g.com/4/11158480)
+
+[LIVETV](https://livetv.sx/enx/)
+
+[STREAMSPORTS99](https://streamsports99.su/)
+
+[STREAMED](https://streamed.pk/)
+
+[NTV](https://ntv.cx/)
+
+[STREAMEAST](https://v2.streameast.ga/)
+
+[FCTV33](https://www.fctv33.hair/)
+
+[METHSTREAMS](https://methstreams.ms/)
+
+[STREAMFREE](https://streamfree.link/)
+
+[BINTV](https://bintv.net/)
+
+[SPORTYHUNTER](https://sportyhunter.com/)
+
+[WATCHSPORTS](https://watchsports.to/)
+
+[HOCKEYTV](http://hockey.tv/)
+
+[CRACKSTREAMS](https://crackstreams.io/)
+
+[SPORTPLUS LIVE](https://en12.sportplus.live/)
+
+[TIMSTREAMS](https://timstreams.net/)
+
+[STRIKEOUT](https://strikeout.im/)
+
+[WATCHFOOTBALL](https://www.watchfootball.to/en/)
+
+[SPORTSURGE](https://v2.sportsurge.net/)
+# 🏏 Cricket Platforms
+
+- [ESPN Cricinfo](https://www.espncricinfo.com)
+- [Cricbuzz](https://www.cricbuzz.com)
+- [ICC Official](https://www.icc-cricket.com)
+- [BCCI](https://www.bcci.tv)
+
+---
+
+# ⚽ Football Platforms
+
+- [FIFA](https://www.fifa.com)
+- [UEFA](https://www.uefa.com)
+- [ESPN Football](https://www.espn.com/soccer)
+- [Goal.com](https://www.goal.com)
+
+---
+
+# 🏀 Basketball Platforms
+
+- [NBA](https://www.nba.com)
+- [ESPN NBA](https://www.espn.com/nba)
+
+---
+
+# 🎾 Tennis Platforms
+
+- [ATP Tour](https://www.atptour.com)
+- [WTA Tennis](https://www.wtatennis.com)
+
+---
+
+# 📊 Live Scores
+
+- [FlashScore](https://www.flashscore.com)
+- [SofaScore](https://www.sofascore.com)
+- [LiveScore](https://www.livescore.com)
+
+---
+
+# 📺 Sports Streaming
+
+- [Hotstar Sports](https://www.hotstar.com)
+- [SonyLIV](https://www.sonyliv.com)
+- [DAZN](https://www.dazn.com)
+- [YouTube Sports](https://www.youtube.com)
+
+---
+
+# 🧠 Stats & Analytics
+
+- [Statista Sports](https://www.statista.com)
+- [FBref](https://fbref.com)
+- [Basketball Reference](https://www.basketball-reference.com)
+
+---
+
+# 📰 Sports News
+
+- [BBC Sport](https://www.bbc.com/sport)
+- [ESPN](https://www.espn.com)
+- [Sky Sports](https://www.skysports.com)
+
+---
+
+# 🎮 Fantasy Sports
+
+- [Dream11](https://www.dream11.com)
+- [FanDuel](https://www.fanduel.com)
+- [MyTeam11](https://www.myteam11.com)
+
+---
+
+# 💡 LibreVault Tips
+
+- 🏏 Cricbuzz fastest updates  
+- ⚽ SofaScore best live tracking  
+- 📊 Stats sites use pannina deep analysis easy  
+- 🎮 Fantasy play pannumbodhu injury/news check pannunga  
+
+---
+
+# ⭐ LibreVault Recommendations
+
+🥇 Best Cricket App  
+Cricbuzz  
+
+🥇 Best Live Scores  
+SofaScore  
+
+🥇 Best Football Stats  
+FBref  
+
+🥇 Best Overall Sports News  
+ESPN  
+
+🥇 Best Fantasy Platform  
+Dream11  
+
+---
 <a id="discovery-tools"></a>
 
 # 🎭 Movie Discovery Tools
