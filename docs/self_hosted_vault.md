@@ -75,6 +75,16 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Heimdall | Simple Dashboard |
 | Dashy | Custom Dashboard |
 
+🌍 Websites
+
+Homepage → https://gethomepage.dev
+
+Homarr → https://homarr.dev
+
+Heimdall → https://heimdall.site
+
+Dashy → https://dashy.to
+
 ---
 
 # ☁️ Cloud Storage
@@ -84,6 +94,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Nextcloud | Overall |
 | ownCloud | Enterprise |
 | Seafile | Fast File Sync |
+
+🌍 Websites
+
+Nextcloud → https://nextcloud.com
+
+ownCloud → https://owncloud.com
+
+Seafile → https://www.seafile.com
 
 ---
 
@@ -95,6 +113,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Plex | Streaming |
 | Emby | Media Library |
 
+🌍 Websites
+
+Jellyfin → https://jellyfin.org
+
+Plex → https://plex.tv
+
+Emby → https://emby.media
+
 ---
 
 # 📸 Photo Management
@@ -105,6 +131,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | PhotoPrism | AI Photo Search |
 | LibrePhotos | Privacy |
 
+🌍 Websites
+
+Immich → https://immich.app
+
+PhotoPrism → https://photoprism.app
+
+LibrePhotos → https://librephotos.com
+
 ---
 
 # 🔐 Password Managers
@@ -114,9 +148,15 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Vaultwarden | Bitwarden Alternative |
 | Passbolt | Teams |
 
+🌍 Websites
+
+Vaultwarden → https://vaultwarden.net
+
+Passbolt → https://passbolt.com
+
 ---
 
-# 📝 Notes & Wiki
+# 📚 Notes & Wiki
 
 | Software | Best For |
 |----------|----------|
@@ -124,6 +164,16 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | BookStack | Knowledge Base |
 | Trilium Notes | Personal Notes |
 | AppFlowy | Notion Alternative |
+
+🌍 Websites
+
+Wiki.js → https://js.wiki
+
+BookStack → https://www.bookstackapp.com
+
+Trilium Notes → https://triliumnotes.org
+
+AppFlowy → https://appflowy.io
 
 ---
 
@@ -133,6 +183,12 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 |----------|----------|
 | FreshRSS | RSS |
 | Miniflux | Lightweight RSS |
+
+🌍 Websites
+
+FreshRSS → https://freshrss.org
+
+Miniflux → https://miniflux.app
 
 ---
 
@@ -144,6 +200,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | SABnzbd | Usenet |
 | pyLoad | Downloads |
 
+🌍 Websites
+
+qBittorrent → https://www.qbittorrent.org
+
+SABnzbd → https://sabnzbd.org
+
+pyLoad → https://pyload.net
+
 ---
 
 # 🌐 Reverse Proxy
@@ -154,6 +218,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Traefik | Docker |
 | Caddy | Automatic HTTPS |
 
+🌍 Websites
+
+Nginx Proxy Manager → https://nginxproxymanager.com
+
+Traefik → https://traefik.io
+
+Caddy → https://caddyserver.com
+
 ---
 
 # 🐳 Container Management
@@ -163,6 +235,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Portainer | Docker GUI |
 | Dockge | Docker Compose |
 | Yacht | Simple Management |
+
+🌍 Websites
+
+Portainer → https://www.portainer.io
+
+Dockge → https://dockge.kuma.pet
+
+Yacht → https://yacht.sh
 
 ---
 
@@ -175,6 +255,16 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | Prometheus | Metrics |
 | Netdata | Real-time Monitoring |
 
+🌍 Websites
+
+Uptime Kuma → https://uptime.kuma.pet
+
+Grafana → https://grafana.com
+
+Prometheus → https://prometheus.io
+
+Netdata → https://www.netdata.cloud
+
 ---
 
 # 🏡 Home Automation
@@ -185,6 +275,14 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 | openHAB | IoT |
 | Node-RED | Automation |
 
+🌍 Websites
+
+Home Assistant → https://www.home-assistant.io
+
+openHAB → https://www.openhab.org
+
+Node-RED → https://nodered.org
+
 ---
 
 # 🗂️ File Browser
@@ -193,6 +291,12 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 |----------|----------|
 | File Browser | Web File Manager |
 | FileGator | Lightweight |
+
+🌍 Websites
+
+File Browser → https://filebrowser.org
+
+FileGator → https://filegator.io
 
 ---
 
@@ -204,7 +308,7 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 
 ✅ Important data-ku regular backups edunga.
 
-✅ Public internet-ku expose pannumbodhu HTTPS use pannunga.
+✅ HTTPS use pannunga if internet-la expose panreenga.
 
 ---
 
@@ -224,8 +328,6 @@ Idhu install pannina self-hosting journey easy-ah start pannalaam.
 
 🥇 Uptime Kuma
 
-Indha 7 apps install pannina oru solid homelab ready.
-
 ---
 
 # 🔗 Related Vaults
@@ -234,8 +336,8 @@ Indha 7 apps install pannina oru solid homelab ready.
 
 ➡️ Privacy Vault
 
-➡️ Cloud Storage Vault
-
 ➡️ Linux Vault
+
+➡️ Cloud Storage Vault
 
 ➡️ Networking Vault
