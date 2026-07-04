@@ -31,7 +31,7 @@
 - [Itch.io Free Games](https://itch.io/games/free)
 - [Microsoft Store Free Games](https://www.microsoft.com/store/games)
 
-# 🆓 Ah purinjukonga pa 🤫 -- PAIRASI
+# 🆓 Ah purinjukonga pa 🤫 -- PAIRASI ( COMPANY PORUPU ILA FOR THESE )
 [FITGIRL REPACKS](https://fitgirl-repacks.site/)
 
 [DODI REPACKS](https://dodi-repacks.site/)
