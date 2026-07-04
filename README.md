@@ -144,4 +144,6 @@ Software add panna munadi verify pannuvom:
 
 Namma goal internet-la irukkura ella software-yum list pannradhu illa.
 
+## 📦 [Enter LibreVault →](docs/librevault.md)
+
 **Actually useful, reliable, trustworthy software mattum recommend pannradhu dhaan TamilLibre-oda objective.** 💚
