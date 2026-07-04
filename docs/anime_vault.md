@@ -3,7 +3,7 @@
 > **"Free anime, manga, and manhwa resources in one place."**
 
 ---
-Be sure to use AdBlock and VPN if needed.
+Be sure to use [AdBlock (uBlock Origin)](./ad_blocker.md) and [VPN (Proton VPN)](./vpn_vault.md) if needed.
 
 
 # 📦 Indha Vault-la Enna Irukku?
