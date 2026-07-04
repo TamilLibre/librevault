@@ -1,3 +1,4 @@
+🏠 **[Home](../README.md)** › 📦 **[LibreVault](librevault.md)** › 🌐 **Browser Vault**
 # 🌐 Browser Vault
 
 > **The right browser depends on what you value most—privacy, speed, customization, or compatibility.**
