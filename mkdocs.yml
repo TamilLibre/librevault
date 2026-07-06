@@ -1,0 +1,52 @@
+site_name: LibreVault
+site_description: A curated collection of free, open-source software, tools, and digital resources.
+site_author: LibreVault
+site_url: https://yourusername.github.io/librevault/
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+
+    - scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
