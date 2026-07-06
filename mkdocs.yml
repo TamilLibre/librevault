@@ -1,52 +1,47 @@
 site_name: LibreVault
-site_description: A curated collection of free, open-source software, tools, and digital resources.
-site_author: LibreVault
-site_url: https://yourusername.github.io/librevault/
-
+site_description: A curated collection of free and open-source software.
 theme:
   name: material
-  language: en
-
-  palette:
-    - scheme: slate
-      primary: blue
-      accent: cyan
-      toggle:
-        icon: material/weather-night
-        name: Dark Mode
-
-    - scheme: default
-      primary: blue
-      accent: cyan
-      toggle:
-        icon: material/weather-sunny
-        name: Light Mode
-
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - navigation.top
-    - navigation.expand
-    - search.highlight
-    - search.share
-    - content.code.copy
-    - toc.follow
 
 plugins:
   - search
 
-markdown_extensions:
-  - admonition
-  - tables
-  - attr_list
-  - md_in_html
-  - footnotes
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.tabbed:
-      alternate_style: true
+nav:
+  - Home: index.md
+
+  - Operating Systems:
+      - Linux: linux_vault.md
+      - Windows: windows_vault.md
+      - Android: android_vault.md
+
+  - Utilities:
+      - Browser: browser-vault.md
+      - Download Manager: download-manager-vault.md
+      - File Manager: file-manager-vault.md
+      - Archive Manager: archive-manager-vault.md
+      - Media Player: media-player-vault.md
+      - Office: office-vault.md
+      - PDF: pdf-vault.md
+
+  - Creative:
+      - Image Editors: image-editor-vault.md
+      - Video Editors: video-editor-vault.md
+      - Audio Editors: audio-editor-vault.md
+      - Screen Recorder: screen-recorder-vault.md
+
+  - Entertainment:
+      - Gaming: gaming-vault.md
+      - PC Games: pc_games.md
+      - Anime: anime_vault.md
+      - Movies & TV: movies_tv_shows.md
+
+  - Privacy & Security:
+      - Privacy: privacy_vault.md
+      - VPN: vpn_vault.md
+      - Security: security-vault.md
+      - Password Managers: password-manager-vault.md
+
+  - Development:
+      - AI: ai_vault.md
+      - Developer: developer-vault.md
+      - Web Tools: web_tools_vault.md
